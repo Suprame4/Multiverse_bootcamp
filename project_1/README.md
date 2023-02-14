@@ -14,3 +14,9 @@
 
 4. Portfolio Page
 * include the projects you've worked on. For each project you wish to showcase, you should include the name of your project, a brief description, a screenshot, and a link to where it lives on the web
+
+## Tools used 
+* HTML, CSS and JavaScript 
+* Bootstraps 5
+* Font awesome 
+* google maps 
